@@ -1,9 +1,3 @@
-4. Configure Jenkins Pipeline for SonarQube Analysis
-Create a Jenkinsfile in your project:
-
-groovy
-คัดลอก
-แก้ไข
 pipeline {
     agent any
 
